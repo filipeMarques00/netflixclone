@@ -9,6 +9,11 @@ export default ({item}) => {
     genres.push(item.genres[i].name);
   }
 
+  let descripition = item.overview;
+  if(descripition.length > 200){
+    descripition = descripition.substring (0, 200) + '...';
+  }
+
   return (
     <section className='featured' style={{
         backgroundSize: 'cover',
@@ -33,7 +38,7 @@ export default ({item}) => {
                     </div>
                 </div>
                 <div className='featured--descripition'>
-                    {item.overview}
+                    {descripition}
                 </div>
                 <div className='featured-buttons'>
                     <a className='featured--watchbutton'>
