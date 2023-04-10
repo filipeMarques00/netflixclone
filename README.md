@@ -1,5 +1,3 @@
-<img align="right" height="70px" style="padding: 25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/799px-Netflix_2015_logo.svg.png" alt="Screenshot do Projeto em funcionamento">
-
 ![Portfolio](https://github.com/filipeMarques00/netflixclone/blob/main/React-App-Perfil-1-%E2%80%94-Microsoft_-Edge-2023-04-10-12-57-07.gif) 
 
 
