@@ -2,8 +2,6 @@
 
 Home-page da Netflix utilizando React  
 
-<img align="right" height="70px" style="padding: 25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/799px-Netflix_2015_logo.svg.png" alt="Screenshot do Projeto em funcionamento">
-
 ## Sobre o projeto
 
 Ainda em busca de adquirir mais conhecimento sobre esse mundo do desenvolvimento front-end, o desafio da vez foi replicar a home-page da Netflix em React. 
