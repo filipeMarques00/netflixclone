@@ -1,6 +1,6 @@
 <img align="right" height="70px" style="padding: 25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/799px-Netflix_2015_logo.svg.png" alt="Screenshot do Projeto em funcionamento">
 
-![Portfolio](https://github.com/filipeMarques00/portfolio-Filipe/blob/main/Portfolio.gif) 
+![Portfolio](https://github.com/filipeMarques00/netflixclone/blob/main/React_App_-_Perfil_1_%E2%80%94_Microsoft__Edge_2023-04-10_12-57-07_AdobeExpress.gif) 
 
 
 ## Sobre o projeto
